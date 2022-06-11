@@ -6,4 +6,4 @@
 
 `deklaracja` pozwala wlaczyc do pliku zrodlowego zawartosc podanego pliku  
 `definicja` pozwala wlaczyc do pliku zrodlowego zawartosc podanego pliku  
-`inicjowanie` pozwala wlaczyc do pliku zrodlowego zawartosc podanego pliku  
+`inicjalizacja` pozwala wlaczyc do pliku zrodlowego zawartosc podanego pliku  
