@@ -6,4 +6,4 @@
 
 `deklaracja` informuje kompilator ze nazwa jest juz znana, nie przydziela pamieci  
 `definicja` informuje czym jest identyfikator w programie, rezerwuje miejsce dla zmiennej  
-`inicjalizacja` pozwala wlaczyc do pliku zrodlowego zawartosc podanego pliku  
+`inicjalizacja` polega na przypisaniu wartosci do zmiennej w momencie jej deklaracji
