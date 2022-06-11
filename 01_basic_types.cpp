@@ -25,5 +25,11 @@ int main(){
 
 	int *h;
 
+	char i;
+	char *j;
+	j = &i;
+	char& k = i;
+	char &l = i;
+
 	return 0;
 }
