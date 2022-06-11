@@ -3,3 +3,7 @@
 
 `#include` pozwala wlaczyc do pliku zrodlowego zawartosc podanego pliku  
 `#define` pozwala zdefiniowac makro, podlegajace pozniej makrorozszerzeniu
+
+`deklaracja` pozwala wlaczyc do pliku zrodlowego zawartosc podanego pliku  
+`definicja` pozwala wlaczyc do pliku zrodlowego zawartosc podanego pliku  
+`inicjowanie` pozwala wlaczyc do pliku zrodlowego zawartosc podanego pliku  
