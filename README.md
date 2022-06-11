@@ -9,3 +9,5 @@
 `inicjalizacja` polega na przypisaniu wartosci do zmiennej w momencie jej deklaracji  
 
 `zmienna skalarna` taka ktorej obiekty sa niepodzielne
+
+<h5>Basic Operators</h5>
