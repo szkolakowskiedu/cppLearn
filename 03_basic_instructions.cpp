@@ -35,5 +35,28 @@ int main(){
 		std::cout << "a=" << a << "\n";
 	} while (a>0);
 
+	for (a;a<2;a++){
+		std::cout << "a=" << a << " ";
+	}
+	std::cout << "\n";
+
+	for (a;a>=0;a--){
+		if (a==1) continue;
+		std::cout << "a=" << a << " ";
+	}
+	std::cout << "\n";
+
+	while (a==0){
+		break;
+		std::cout << "a=" << a << " ";
+	}
+
+	goto checkpoint;
+
+	std::cout << "goto failed\n";
+
+	checkpoint:
+	std::cout << "goto worked\n";
+
 	return 0;
 }
