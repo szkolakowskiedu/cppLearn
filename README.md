@@ -24,4 +24,5 @@
 `if (wyr) ins1 else ins2` jesli wyrazenie wyr jest falszywe, wykonuje instrukcje ins2  
 `switch (wyr) default:.. case:..` wykonuje case odpowiadajacy wyrazeniu wyr  
 `while (wyr) ins` wykonuje instrukcje ins tak dlugo jak wyrazenie wyr jest prawdziwe  
-`do ins while (wyr)` wykonuje instrukcje inst tak dlugo jak wyrazenie wyr jest prawdziwe + 1 raz
+`do ins while (wyr)` wykonuje instrukcje inst tak dlugo jak wyrazenie wyr jest prawdziwe + 1 raz  
+`for (wyr1;wyr2;wyr3) ins` wykonuje instrukcje ins tak dlugo jak wyrazenie wyr2 jest prawdziwe
