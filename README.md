@@ -25,5 +25,5 @@
 `for (wyr1;wyr2;wyr3) ins` wykonuje instrukcje ins tak dlugo jak wyrazenie wyr2 jest prawdziwe  
 `continue` przerwanie biezacego kroku petli i przejscie do nastepnego  
 `break` przerwanie najbardziej zagniezdzonej petli z wykonywanych  
-`return wyr` wywolanie programu zwraca wartosc wyr  
+`return wyr` powoduje zakonczenie wykonywania funkcji zwracajac wartosc wyr  
 `goto etyk` przekazanie sterowania do miejsca programu oznaczonego etykieta etyk
