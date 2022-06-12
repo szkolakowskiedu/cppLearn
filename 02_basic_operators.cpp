@@ -17,5 +17,12 @@ int main(){
 	a, b = 2, c, d = 10;
 	a = (b++, c = b + 7, ++d); // a = 11, b = 3, c = 10, d = 11
 
+	int e = 3;
+	float f = (float) e;
+	float g = float(e);
+
+	char h;
+	char* k = (char *)h;
+
 	return 0;
 }
