@@ -24,7 +24,6 @@ int main(){
 	test_point.y = 24.0;
 
 	int *h;
-
 	char i;
 	char *j = &i;
 	char& k = i;
