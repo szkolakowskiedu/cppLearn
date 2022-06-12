@@ -25,5 +25,15 @@ int main(){
 		case (6): std::cout << "switch a = 3\n"; break;
 	}
 
+	while (a>0){
+		std::cout << "a=" << a << " ";
+		a--;
+	}
+	std::cout << "\n";
+
+	do{
+		std::cout << "a=" << a << "\n";
+	} while (a>0);
+
 	return 0;
 }
