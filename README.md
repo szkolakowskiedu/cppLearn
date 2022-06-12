@@ -19,3 +19,5 @@
 `operatory konwersji` przeksztalcaja zmienne na inny typ
 
 <h5>Basic Instructions</h5>
+
+`if (wyr1) ins` jesli wyr1 jest prawdziwe, wykonuje instrukcje ins
