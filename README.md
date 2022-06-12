@@ -11,3 +11,5 @@
 `zmienna skalarna` taka ktorej obiekty sa niepodzielne
 
 <h5>Basic Operators</h5>
+
+`przeciazanie` redefiniowanie dzialanie operatorow dla obiektow struct, class, union
