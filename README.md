@@ -14,4 +14,5 @@
 
 `przeciazanie` redefiniowanie dzialania operatorow dla obiektow struct, class, union  
 `operator warunku` operator trojargumentowy (arg1 ? arg2 : arg3)  
-`operator polaczenia ,` typem i wartoscia wyniku jest typ i wartosc ostatniego z wyrazen
+`operator polaczenia ,` typem i wartoscia wyniku jest typ i wartosc ostatniego z wyrazen  
+`operatory konwersji` przeksztalcaja zmienne na inny typ
