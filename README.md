@@ -20,4 +20,6 @@
 
 <h5>Basic Instructions</h5>
 
-`if (wyr1) ins` jesli wyr1 jest prawdziwe, wykonuje instrukcje ins
+`if (wyr1) ins` jesli wyrazenie wyr1 jest prawdziwe, wykonuje instrukcje ins  
+`if (wyr1) ins1 else ins2` jesli wyrazenie wyr1 jest falszywe, wykonuje instrukcje ins2
+`switch (wyr) default:.. case:..` wykonuje case odpowiadajacy wyrazeniu wyr
