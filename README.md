@@ -22,4 +22,6 @@
 `switch (wyr) default:.. case:..` wykonuje case odpowiadajacy wyrazeniu wyr  
 `while (wyr) ins` wykonuje instrukcje ins tak dlugo jak wyrazenie wyr jest prawdziwe  
 `do ins while (wyr)` wykonuje instrukcje inst tak dlugo jak wyrazenie wyr jest prawdziwe + 1 raz  
-`for (wyr1;wyr2;wyr3) ins` wykonuje instrukcje ins tak dlugo jak wyrazenie wyr2 jest prawdziwe
+`for (wyr1;wyr2;wyr3) ins` wykonuje instrukcje ins tak dlugo jak wyrazenie wyr2 jest prawdziwe  
+`continue` przerwanie biezacego kroku petli i przejscie do nastepnego
+`break` przerwanie petli w ktorej break zostal wywolany
