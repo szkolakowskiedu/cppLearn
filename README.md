@@ -20,6 +20,8 @@
 
 <h5>Basic Instructions</h5>
 
-`if (wyr1) ins` jesli wyrazenie wyr1 jest prawdziwe, wykonuje instrukcje ins  
-`if (wyr1) ins1 else ins2` jesli wyrazenie wyr1 jest falszywe, wykonuje instrukcje ins2  
-`switch (wyr) default:.. case:..` wykonuje case odpowiadajacy wyrazeniu wyr
+`if (wyr) ins` jesli wyrazenie wyr jest prawdziwe, wykonuje instrukcje ins  
+`if (wyr) ins1 else ins2` jesli wyrazenie wyr jest falszywe, wykonuje instrukcje ins2  
+`switch (wyr) default:.. case:..` wykonuje case odpowiadajacy wyrazeniu wyr  
+`while (wyr) ins` wykonuje instrukcje ins tak dlugo jak wyrazenie wyr jest prawdziwe
+`do ins while (wyr)` wykonuje instrukcje inst tak dlugo jak wyrazenie wyr jest prawdziwe + 1 raz
