@@ -12,4 +12,5 @@
 
 <h5>Basic Operators</h5>
 
-`przeciazanie` redefiniowanie dzialania operatorow dla obiektow struct, class, union
+`przeciazanie` redefiniowanie dzialania operatorow dla obiektow struct, class, union  
+`operator warunku` operator trojargumentowy (arg1 ? arg2 : arg3)
