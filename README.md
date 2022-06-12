@@ -17,3 +17,5 @@
 `operator warunku` operator trojargumentowy (arg1 ? arg2 : arg3)  
 `operator polaczenia ,` typem i wartoscia wyniku jest typ i wartosc ostatniego z wyrazen  
 `operatory konwersji` przeksztalcaja zmienne na inny typ
+
+<h5>Basic Instructions</h5>
