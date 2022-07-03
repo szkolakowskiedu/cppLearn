@@ -37,4 +37,4 @@
 `argumenty domniemane` parametry z wartoscia domyslna  
 `definicja funkcji` polaczenie naglowka i ciala funkcji  
 `prototyp funkcji` naglowek funkcji umozliwiajacy jej implementacje w innym miejscu  
-`inline`
+`inline` slowo kluczowe powodujace wpisanie ciala funkcji w kazdym miejscu jej wywolania
