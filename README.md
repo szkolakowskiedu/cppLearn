@@ -37,4 +37,4 @@
 `argumenty formalne - parametry`  
 `definicja funkcji`  
 `prototyp funkcji`  
-`inline`
+`inline`  
