@@ -30,8 +30,8 @@
 
 <h5>Basic Functions</h5>
 
-`funckje zagniezdzone` funkcje zdefiniowane wewnatrz ciala innej funkcji
-`naglowek funkcji`  
+`funckje zagniezdzone` funkcje zdefiniowane wewnatrz ciala innej funkcji  
+`naglowek funkcji` nazwa funkcji, typy przyjmowanych i zwracanych argumentow    
 `cialo funkcji`  
 `argumenty domniemane`  
 `argumenty formalne - parametry`  
