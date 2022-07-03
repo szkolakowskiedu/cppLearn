@@ -32,7 +32,7 @@
 
 `funckje zagniezdzone` funkcje zdefiniowane wewnatrz ciala innej funkcji  
 `naglowek funkcji` nazwa funkcji, typy przyjmowanych i zwracanych argumentow    
-`cialo funkcji`  
+`cialo funkcji` czesc funkcyjna definicji funkcji, przetwarza dane  
 `argumenty domniemane`  
 `argumenty formalne - parametry`  
 `definicja funkcji`  
