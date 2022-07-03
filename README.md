@@ -27,3 +27,14 @@
 `break` przerwanie najbardziej zagniezdzonej petli z wykonywanych  
 `return wyr` powoduje zakonczenie wykonywania funkcji zwracajac wartosc wyr  
 `goto etyk` przekazanie sterowania do miejsca programu oznaczonego etykieta etyk
+
+<h5>Basic Functions</h5>
+
+`funckje zagniezdzone`  
+`naglowek funkcji`  
+`cialo funkcji`  
+`argumenty domniemane`  
+`argumenty formalne - parametry`  
+`definicja funkcji`  
+`prototyp funkcji`  
+`inline`
