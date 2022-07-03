@@ -35,6 +35,6 @@
 `cialo funkcji` czesc funkcyjna definicji funkcji  
 `argumenty formalne` zdefiniowane parametry przyjmowane przez funkcje  
 `argumenty domniemane` parametry z wartoscia domyslna  
-`definicja funkcji`  
-`prototyp funkcji`  
+`definicja funkcji` polaczenie naglowka i ciala funkcji  
+`prototyp funkcji` naglowek funkcji umozliwiajacy jej implementacje w innym miejscu  
 `inline`
