@@ -38,3 +38,20 @@
 `definicja funkcji` polaczenie naglowka i ciala funkcji  
 `prototyp funkcji` naglowek funkcji umozliwiajacy jej implementacje w innym miejscu  
 `inline` slowo kluczowe powodujace wpisanie ciala funkcji w kazdym miejscu jej wywolania
+identyfikatory
+zasieg
+widzialnosc
+przeslanianie
+operator zasiegu / zakresu ::
+typedef
+#define
+czas zycia obiektu danych
+obiekty statyczne
+obiekty dynamiczne
+static
+wiazanie identyfikatora
+zewnetrzne
+wewnetrzne
+brak
+const
+extern
