@@ -1,8 +1,6 @@
 #include <iostream>
 
-int func1(int b){
-	return b;
-}
+int func1(int b); // prototyp
 
 int func2(int c){
 	return 2*c;
@@ -13,3 +11,5 @@ int main(){
 	a = func1(b)+func2(c)+3;
 	return 0;
 }
+
+int func1(int b){return b;} // definicja
